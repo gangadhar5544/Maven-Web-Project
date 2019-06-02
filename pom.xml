@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.71.90:8081/repository/ganga-nexus-releases/</url>
+	      <url>http://13.233.104.156:8081/repository/ganga-maven-release//</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.71.90:8081/repository/ganga-nexus-snapshot/</url>
+	      <url>http://13.233.104.156:8081/repository/ganga-maven-snapshot//</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
